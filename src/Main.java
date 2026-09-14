@@ -24,7 +24,20 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		// YOUR CODE GOES HERE!!!!
+		String PLURALNOUN1 = in.nextLine();
+		String ADJECTIVE1 = in.nextLine();
+		String VERB_ING_1 = in.nextLine();
+		String NOUN1 = in.nextLine();
+		String ADVERB1 = in.nextLine();
+		String BODY_PART1 = in.nextLine();
+		String PLURALNOUN2 = in.nextLine();
+		String PLURALNOUN3 = in.nextLine();
+		String ADVERB2 = in.nextLine();
+		String ADJECTIVE2 = in.nextLine();
+		String NOUN2 = in.nextLine();
+		int NUMBER1 =in.nextInt();
+		String PLURALNOUN4 = in.nextLine();
+		String NOUN3 = in.nextLine();
 		
 		
 		
